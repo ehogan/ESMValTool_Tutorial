@@ -1,63 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/404.html</loc>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/00-introduction.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/CODE_OF_CONDUCT.html</loc>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/01-quickstart.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/LICENSE.html</loc>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/02-installation.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/glossary.html</loc>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/03-configuration.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/guide.html</loc>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/04-recipe.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/index.html</loc>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/05-conclusions.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/404.html</loc>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/06-preprocessor.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/CODE_OF_CONDUCT.html</loc>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/07-development-setup.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/LICENSE.html</loc>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/08-diagnostics.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/glossary.html</loc>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/09-cmorization.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/guide.html</loc>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/10-debugging.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/index.html</loc>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/404.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/introduction.html</loc>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/profiles.html</loc>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/reference.html</loc>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/aio.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/setup.html</loc>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/glossary.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/introduction.html</loc>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/guide.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/profiles.html</loc>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/images.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/reference.html</loc>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/index.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/setup.html</loc>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/instructor/00-introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/instructor/01-quickstart.html</loc>
+  </url>
+  <url>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/instructor/02-installation.html</loc>
+  </url>
+  <url>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/instructor/03-configuration.html</loc>
+  </url>
+  <url>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/instructor/04-recipe.html</loc>
+  </url>
+  <url>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/instructor/05-conclusions.html</loc>
+  </url>
+  <url>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/instructor/06-preprocessor.html</loc>
+  </url>
+  <url>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/instructor/07-development-setup.html</loc>
+  </url>
+  <url>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/instructor/08-diagnostics.html</loc>
+  </url>
+  <url>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/instructor/09-cmorization.html</loc>
+  </url>
+  <url>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/instructor/10-debugging.html</loc>
+  </url>
+  <url>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/instructor/404.html</loc>
+  </url>
+  <url>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/instructor/CODE_OF_CONDUCT.html</loc>
+  </url>
+  <url>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/instructor/LICENSE.html</loc>
+  </url>
+  <url>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/instructor/aio.html</loc>
+  </url>
+  <url>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/instructor/glossary.html</loc>
+  </url>
+  <url>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/instructor/guide.html</loc>
+  </url>
+  <url>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/instructor/images.html</loc>
+  </url>
+  <url>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/instructor/index.html</loc>
+  </url>
+  <url>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/instructor/introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/instructor/key-points.html</loc>
+  </url>
+  <url>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/instructor/profiles.html</loc>
+  </url>
+  <url>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/instructor/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/instructor/setup.html</loc>
+  </url>
+  <url>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/key-points.html</loc>
+  </url>
+  <url>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/profiles.html</loc>
+  </url>
+  <url>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://ehogan.github.io/ESMValTool_Tutorial/setup.html</loc>
   </url>
 </urlset>
