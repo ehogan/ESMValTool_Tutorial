@@ -18,10 +18,10 @@ carpentry: 'incubator'
 carpentry_description: 'Lesson Description'
 
 # Overall title for pages.
-title: 'Lesson Title' # FIXME
+title: 'ESMValTool Tutorial'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: ~ # FIXME
+created: 2024-11-21
 
 # Comma-separated list of keywords for the lesson
 keywords: 'software, data, lesson, The Carpentries' # FIXME
@@ -34,7 +34,7 @@ life_cycle: 'pre-alpha' # FIXME
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/carpentries/workbench-template-md' # FIXME
+source: 'https://github.com/ehogan/ESMValTool_Tutorial'
 
 # Default branch of your lesson
 branch: 'main'
@@ -66,7 +66,17 @@ contact: 'team@carpentries.org' # FIXME
 
 # Order of episodes in your lesson
 episodes: 
-- introduction.md
+- 00-introduction.md
+- 01-quickstart.md
+- 02-installation.md
+- 03-configuration.md
+- 04-recipe.md
+- 05-conclusions.md
+- 06-preprocessor.md
+- 07-development-setup.md
+- 08-diagnostics.md
+- 09-cmorization.md
+- 10-debugging.md
 
 # Information for Learners
 learners: 
