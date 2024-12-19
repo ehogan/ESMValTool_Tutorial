@@ -3,8 +3,8 @@ name: Test Tutorial Recipes
 on:
   push:
   # pull_request:  # turn on for tests to run on PRs
-  schedule:
-    - cron: '0 4 * * *'
+  # schedule:
+  #   - cron: '0 4 * * *'
 
 jobs:
   install-esmvaltool-and-run-recipes:
